@@ -1,0 +1,9 @@
+0521df39c5dd6f54a7852bdaf9a1b790 *DESCRIPTION
+1687ab96abaa8ca616b1ca1ff1feea93 *NAMESPACE
+bd9f742646ce54752312cd770cb1b6e7 *NEWS.md
+1268f30a1d428187c1b2a7463f483340 *R/read.R
+b512257fd42e7f062146e59f3e33ae30 *R/write.R
+1e45d4b0adc6d9d6fb4ac3680587d6e5 *man/deserializeDataFrame.Rd
+17b33b9fc7fe8982880c17f1422173b1 *man/readDataFrame.Rd
+dcf48409e8d2bece85ff659ed7100075 *man/serializeDataFrame.Rd
+5c82bed66e7ae036c217d34226d715f5 *man/writeDataFrame.Rd
